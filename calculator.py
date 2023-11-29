@@ -1,6 +1,8 @@
 def dummy():
     pass
-    
+
+def temp():
+    pass
 def add():
     print("addition")
     a = int(input("enter the num1:"))
